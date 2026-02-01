@@ -1,0 +1,5 @@
+{
+  "name": "HabitFlow AI",
+  "description": "A sophisticated habit tracker with built-in focus timers, advanced statistics, and AI-powered habit coaching using Gemini.",
+  "requestFramePermissions": []
+}
